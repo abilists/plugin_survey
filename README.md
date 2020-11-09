@@ -1,2 +1,2 @@
 # plugin_survey
-Survey Plugin on Abilists
+survey plugin for Abilists
